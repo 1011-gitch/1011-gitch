@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1011-gitch
 - 👀 I’m interested in Coding and Build fullStack website.
-- 🌱 I’m currently learning ReactJs and NodeJs.
+- 🌱 I code in javascript and ReactJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Connect with me Email:deweshdubey22@gmail.com.|| LinkedIn:https://www.linkedin.com/in/dewesh-dubey-b23906195/
 
